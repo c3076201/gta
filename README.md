@@ -1,4 +1,4 @@
-# gta
+# Group Training Association (GTA)
 
 # Technology Stack
 * PHP
